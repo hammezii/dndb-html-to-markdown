@@ -1,0 +1,10 @@
+[project]
+name = "dndb-html-to-md"
+version = "0.1.0"
+description = "A simple script to convert html files saved from dndbeyond to markdown for use in obsidian."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4==4.13.3",
+    "html2text==2024.2.26",
+]
