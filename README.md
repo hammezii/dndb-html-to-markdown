@@ -24,8 +24,8 @@ I wrote this script to save myself time when copying content into Obsidian for u
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/hammezii/dndb-html-to-markdown.git
+    cd dndb-html-to-markdown
     ```
 
 2.  **Install the dependencies:**
