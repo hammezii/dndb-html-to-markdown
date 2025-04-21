@@ -34,11 +34,7 @@ I wrote this script to save myself time when copying content into Obsidian for u
     pip install -r requirements.txt
     ```
 
-    Alternatively, you can use `pyproject.toml` if you have `Poetry` installed. If you have `uv` installed, you can skip this step and use it to check for and install dependancies on first run:
-    
-    ```bash
-    uv run dndb_html_to_md.py
-    ```
+    Alternatively, you can use `pyproject.toml` if you have `Poetry` or `uv` installed.
 
 ## Usage
 
